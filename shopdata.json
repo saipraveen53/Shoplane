@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pvc coupler 2 and half inches",
+      "category": "plumbing",
+      "price": 50,
+      "imageUrl": "https://i.ibb.co/7xd4kGKC/white-charlotte-pipe-pvc-fittings-pvc021001600hd-64-600.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cooler grass",
+      "category": "electronics",
+      "price": 150,
+      "imageUrl": "https://i.ibb.co/s92wwD4J/81-UM8f-X1-Y7-L-SL1500.jpg"
+    },
+    {
+      "id": "3",
+      "name": "pvc elbow 2 and half inch",
+      "category": "plumbing",
+      "price": 70,
+      "imageUrl": "https://i.ibb.co/4wg1tP3d/elbows-817-007-64-1000.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Extension Box",
+      "category": "electronics",
+      "price": 150,
+      "imageUrl": "https://i.ibb.co/k2pktZc3/accessories.jpg"
+    },
+    {
+      "id": "5",
+      "name": "MCB 20Amps",
+      "category": "electronics",
+      "price": 240,
+      "imageUrl": "https://i.ibb.co/JjgKnXr7/3pole.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pulsar N160",
+      "category": "vehicles",
+      "price": 169000,
+      "imageUrl": "https://i.ibb.co/chzknSyV/OIP.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Whirpool Refridgerator",
+      "category": "electronics",
+      "price": 45000,
+      "imageUrl": "https://i.ibb.co/GQs4gkXP/R.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Mini Chair",
+      "category": "electronics",
+      "price": 100,
+      "imageUrl": "https://i.ibb.co/Fbn0TYcV/IMG20250511123150.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Vega Helmet",
+      "category": "vehicles",
+      "price": 1699,
+      "imageUrl": "https://i.ibb.co/FknBqGbz/81-ZEu-n-Dz-VL-AC-UL1500.jpg"
+    },
+    {
+      "id": "10",
+      "name": "MIVI Soundbar 250watts",
+      "price": 14999,
+      "imageUrl": "https://i.ibb.co/1Y5rmzG7/original-imagsywg5ydhmhkh.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "11",
+      "name": "Toyota Crysta 2.4Z",
+      "price": 26000,
+      "imageUrl": "https://i.ibb.co/yFxdFRVy/innova-crysta-1.jpg",
+      "category": "vehicles"
+    },
+    {
+      "id": "12",
+      "name": "Canvas Hose Pipe",
+      "price": 2000,
+      "imageUrl": "https://i.ibb.co/67trYTbG/canvas-hose-pipe-500x500.jpg",
+      "category": "plumbing"
+    },
+    {
+      "id": "13",
+      "name": "Wrenches Set",
+      "price": 270,
+      "imageUrl": "https://i.ibb.co/jP39zdYf/OIP.jpg",
+      "category": "plumbing"
+    },
+    {
+      "id": "14",
+      "name": "BMW i5",
+      "price": 40000,
+      "imageUrl": "https://i.ibb.co/4w0wqcq0/2024-BMW-i5-preview-1-scaled.jpg",
+      "category": "vehicles"
+    },
+    {
+      "id": "b1e3",
+      "name": "Skoda Slavia",
+      "price": 36000,
+      "imageUrl": "https://i.ibb.co/0xH724C/20230103040635-IMG-2019.jpg",
+      "category": "vehicles"
+    },
+    {
+      "id": "309b",
+      "name": "Range Rover",
+      "price": 38000,
+      "imageUrl": "https://i.ibb.co/Z1t8dkPS/OIP-1.jpg",
+      "category": "vehicles"
+    },
+    {
+      "id": "8fc2",
+      "name": "Bike Cover",
+      "price": 349,
+      "imageUrl": "https://i.ibb.co/gZ3tbrJm/610l-A9th7k-S-SL1500.jpg",
+      "category": "vehicles"
+    },
+    {
+      "id": "0bf6",
+      "name": "Brass Gatewall",
+      "price": 300,
+      "imageUrl": "https://i.ibb.co/pBJLVgW8/1.jpg",
+      "category": "plumbing"
+    },
+    {
+      "id": "5490",
+      "name": "Fall down Tap",
+      "price": 1750,
+      "imageUrl": "https://i.ibb.co/B5hk1qBR/OIP-2.jpg",
+      "category": "plumbing"
+    },
+    {
+      "id": "a8c1",
+      "name": "Bathroom set",
+      "price": 2000,
+      "imageUrl": "https://i.ibb.co/V5ygzNf/p-1000697740.webp",
+      "category": "plumbing"
+    },
+    {
+      "id": "6b76",
+      "name": "Water Bottle",
+      "price": 40,
+      "imageUrl": "https://i.ibb.co/C3YQftHW/IMG20250511152701.jpg",
+      "category": "plumbing"
+    }
+  ]
+}

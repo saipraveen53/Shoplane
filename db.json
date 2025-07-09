@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "name": "Pulsar",
+      "place": "Kawasaki",
+      "id": "a97e"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung S23FE",
+      "price": "59,999",
+      "id": "1a16"
+    },
+    {
+      "id": "532c",
+      "name": "OnePlus Nord 4",
+      "price": "29,999"
+    },
+    {
+      "id": "a2e1",
+      "name": "Redmi Note 14",
+      "price": "19,999"
+    },
+    {
+      "id": "1540",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "4b7f",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "9615",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "26fe",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "0d9e",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "8d81",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "b412",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "a328",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "0e29",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "d221",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "b71d",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "48a0",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "d1d8",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "9153",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "55be",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "2523",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "e620",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "2b32",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "f173",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "b00d",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "6b72",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "c8fd",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "5fa1",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "3b92",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "46fc",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "c5a0",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "9083",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "08d5",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "1a7f",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "c242",
+      "name": "Huawei",
+      "price": 19999
+    },
+    {
+      "id": "fefd",
+      "name": "Huawei",
+      "price": 19999
+    }
+  ]
+}
