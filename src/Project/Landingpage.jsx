@@ -10,7 +10,7 @@ const Landingpage = () => {
             <source src={video} type="video/mp4" />
           </video>
           <div className="wrapper">
-            <div style={{ position: "absolute", top: "200px" }}>
+            <div style={{ position: "absolute", top: "300px", left: "200px" }}>
               <h1
                 className="headZomato"
                 style={{

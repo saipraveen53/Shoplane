@@ -43,7 +43,7 @@ const ZomatoCARTT = () => {
   };
 
   return (
-    <div className="container mt-5">
+    <div style={{ marginTop: "100px" }} className="container">
       <h2 className="mb-4 text-center">Your Cart</h2>
 
       <div className="d-flex justify-content-center mb-4">

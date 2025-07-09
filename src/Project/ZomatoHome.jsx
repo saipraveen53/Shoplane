@@ -170,7 +170,7 @@ const ZomatoHome = ({ searchText, second }) => {
   };
 
   return (
-    <div>
+    <div style={{ marginTop: "77px" }}>
       {/* Inspiration section */}
       <div className="homebody card shadow p-5 ">
         <div className="tagline mb-3">

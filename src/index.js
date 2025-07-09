@@ -4,17 +4,17 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import "./index.css"
-import ShoplaneApp from "./Shoplane/ShoplaneApp";
-import "./Shoplane/shoplane.css"
-import ShoplaneContext from "./Shoplane/ShoplaneContext";
+ 
+ 
+import ZomatoApp from "./Project/ZomatoApp";
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render( 
-    <ShoplaneContext>
-               <ShoplaneApp/>
-    </ShoplaneContext>
-
+    // <ShoplaneContext>
+    //            <ShoplaneApp/>
+    // </ShoplaneContext>
+<ZomatoApp/>
    
    
 );

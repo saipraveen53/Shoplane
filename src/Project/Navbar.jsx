@@ -8,7 +8,16 @@ let Navbar = ({ searchText, setSearchText, setSecond }) => {
   let cartLength = cart.length;
 
   return (
-    <div className="navbar-sticky shadow-sm">
+    <div
+      style={{
+        position: "fixed",
+        width: "100vw",
+        zIndex: "1000",
+        backgroundColor: "white",
+        top: "0px",
+      }}
+      className="navbar-sticky shadow-sm"
+    >
       <div className="container d-flex align-items-center justify-content-between py-2">
         {/* Logo */}
         <Link to="/">
