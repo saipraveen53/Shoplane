@@ -11,10 +11,9 @@ import ZomatoApp from "./Project/ZomatoApp";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render( 
-    // <ShoplaneContext>
-    //            <ShoplaneApp/>
-    // </ShoplaneContext>
-<ZomatoApp/>
+    <ShoplaneContext>
+               <ShoplaneApp/>
+    </ShoplaneContext>
    
    
 );
